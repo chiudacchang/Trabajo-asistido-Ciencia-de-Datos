@@ -8,7 +8,7 @@ Repositorio de talleres de TIC de los Martes.
 
 Imagen Centrada
 <p align="center">
-    <img src="ruta/imagen.png" alt="Descripción" width="500"/>
+    <img src="ruta/[imagen.png](https://play.hbomax.com/mini-series/f3a51e09-2662-40e0-a96b-4a571f149da4)" alt="Descripción" width="500"/>
 </p>
 
 Formato de Texto
@@ -20,3 +20,18 @@ Formato de Texto
 ~~tachado~~
 
 `código en línea`
+
+
+Python
+```python
+print("Hola mundo")
+```
+
+Tablas
+| Columna 1 | Columna 2 | Columna 3 |
+|-----------|-----------|-----------|
+| Dato 1    | Dato 2    | Dato 3    |
+| Dato 4    | Dato 5    | Dato 6    |
+
+
+
