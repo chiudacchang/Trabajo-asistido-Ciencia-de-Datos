@@ -2,4 +2,4 @@
 Repositorio de talleres de TIC de los Martes.
 # Título principal (H1)
 
-![Texto alternativo](Capturadepantalla2026-03-04162040.png)
+![Texto alternativo](Capturadepantalla2026-03-04162040.PNG)
