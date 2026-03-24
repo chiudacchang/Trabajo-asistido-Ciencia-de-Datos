@@ -32,7 +32,11 @@ Python
 print("Hola mundo")
 ```
 
+![Badge](https://img.shields.io/badge/etiqueta-valor-color)
 
+<!-- Ejemplos -->
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Licencia](https://img.shields.io/badge/licencia-MIT-green)
 
 
 
