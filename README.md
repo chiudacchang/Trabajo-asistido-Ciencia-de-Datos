@@ -5,3 +5,18 @@ Repositorio de talleres de TIC de los Martes.
 ![Texto alternativo](Capturadepantalla2026-03-04162040.png)
 
 ![Logo](https://image.tmdb.org/t/p/original/QbRbCULZVBcrN2uydpmIOQLV5O.jpg)
+
+Imagen Centrada
+<p align="center">
+    <img src="ruta/imagen.png" alt="Descripción" width="500"/>
+</p>
+
+Formato de Texto
+
+**negrita**
+
+*cursiva*
+
+~~tachado~~
+
+`código en línea`
